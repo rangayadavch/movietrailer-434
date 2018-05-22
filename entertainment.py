@@ -3,6 +3,12 @@
 
 import media
 import fresh_tomatoes
+'''
+atr1:movie name
+atr2:theme
+atr3:image link
+atr4:youtube link
+'''
 
 bahu = media.Movie("Bahubali The Conclusion", "war", "https://bit.ly/2GBNgc1",
                    "https://www.youtube.com/embed/sOEg_YZQsTI")
